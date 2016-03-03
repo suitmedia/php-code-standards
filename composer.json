@@ -1,5 +1,5 @@
 {
-    "name": "suitmedia/suitmedia-code-standards",
+    "name": "suitmedia/php-code-standards",
     "description": "Suitmedia PHP Code Standards",
     "type": "library",
     "keywords": ["codesniffer"],
