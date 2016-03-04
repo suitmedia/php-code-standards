@@ -45,5 +45,8 @@
 
     <rule ref="PEAR.ControlStructures.ControlSignature"/>
     <rule ref="PEAR.NamingConventions.ValidClassName"/>
-    <rule ref="PEAR.NamingConventions.ValidFunctionName"/>
+    <rule ref="PEAR.NamingConventions.ValidFunctionName">
+        <exclude name="PEAR.NamingConventions.ValidFunctionName.PrivateNoUnderscore"/>
+        <exclude name="PEAR.NamingConventions.ValidFunctionName.FunctionUnderscore"/>
+    </rule>
 </ruleset>
