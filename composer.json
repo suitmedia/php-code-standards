@@ -2,7 +2,7 @@
     "name": "suitmedia/php-code-standards",
     "description": "Suitmedia PHP Code Standards",
     "type": "library",
-    "keywords": ["codesniffer"],
+    "keywords": ["codesniffer", "phpcs", "standards"],
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +10,9 @@
             "homepage": "https://suitmedia.com/"
         }
     ],
+    "support"    : {
+        "issues": "https://github.com/suitmedia/php-code-standards/issues"
+    },
     "require": {
         "squizlabs/php_codesniffer": "~2.5"
     },
