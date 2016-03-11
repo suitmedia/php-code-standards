@@ -24,7 +24,6 @@
     <rule ref="Generic.NamingConventions.CamelCapsFunctionName"/>
     <rule ref="Generic.PHP.DeprecatedFunctions"/>
     <rule ref="Generic.PHP.DisallowShortOpenTag"/>
-    <rule ref="Generic.PHP.ForbiddenFunctions"/>
     <rule ref="Generic.PHP.NoSilencedErrors"/>
     <rule ref="Generic.Strings.UnnecessaryStringConcat"/>
 
@@ -35,6 +34,7 @@
     <rule ref="Squiz.Operators.ValidLogicalOperators"/>
     <rule ref="Squiz.PHP.DisallowSizeFunctionsInLoops"/>
     <rule ref="Squiz.PHP.Eval"/>
+    <rule ref="Squiz.PHP.ForbiddenFunctions"/>
     <rule ref="Squiz.PHP.GlobalKeyword"/>
     <rule ref="Squiz.PHP.NonExecutableCode"/>
     <rule ref="Squiz.Scope.MemberVarScope"/>
