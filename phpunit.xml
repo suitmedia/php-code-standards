@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit backupGlobals="true"
+         colors="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         convertErrorsToExceptions="true"
+         mapTestClassNameToCoveredClassName="false"
+         strict="true"
+         verbose="true"
+         bootstrap="./Suitmedia/Tests/bootstrap.php">
+
+    <testsuites>
+        <testsuite name="suitmedia_code_standards">
+            <directory>./Suitmedia/Tests/Sniffs</directory>
+        </testsuite>
+    </testsuites>
+
+</phpunit>
