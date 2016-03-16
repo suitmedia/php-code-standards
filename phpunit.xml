@@ -5,7 +5,6 @@
          convertWarningsToExceptions="true"
          convertErrorsToExceptions="true"
          mapTestClassNameToCoveredClassName="false"
-         strict="true"
          verbose="true"
          bootstrap="./Suitmedia/Tests/bootstrap.php">
 
