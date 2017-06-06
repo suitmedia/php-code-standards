@@ -14,7 +14,8 @@
         "issues": "https://github.com/suitmedia/php-code-standards/issues"
     },
     "require": {
-        "squizlabs/php_codesniffer": "~2.5"
+        "squizlabs/php_codesniffer": "~2.5",
+        "cakephp/cakephp-codesniffer": "~2.3"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.2 || ~4.8"

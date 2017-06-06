@@ -48,4 +48,23 @@
         <exclude name="PEAR.NamingConventions.ValidFunctionName.PrivateNoUnderscore"/>
         <exclude name="PEAR.NamingConventions.ValidFunctionName.FunctionUnderscore"/>
     </rule>
+
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/Formatting/OneClassPerUseSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/Formatting/UseInAlphabeticalOrderSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/NamingConventions/UpperCaseConstantNameSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/NamingConventions/ValidClassBracketsSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/NamingConventions/ValidTraitNameSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/NamingConventions/ValidVariableNameSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/PHP/DisallowShortOpenTagSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/Strings/ConcatenationSpacingSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/CommaSpacingSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/EmptyLinesSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/FunctionCallSpacingSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/FunctionClosingBraceSpaceSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/FunctionOpeningBraceSpaceSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/FunctionSpacingSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/ObjectOperatorSpacingSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/OperatorSpacingSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/ScopeIndentSniff.php"/>
+    <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/WhiteSpace/TabAndSpaceSniff.php"/>
 </ruleset>
