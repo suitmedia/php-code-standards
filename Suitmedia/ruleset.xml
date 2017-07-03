@@ -47,6 +47,7 @@
     <rule ref="PEAR.NamingConventions.ValidFunctionName">
         <exclude name="PEAR.NamingConventions.ValidFunctionName.PrivateNoUnderscore"/>
         <exclude name="PEAR.NamingConventions.ValidFunctionName.FunctionUnderscore"/>
+        <exclude name="PEAR.NamingConventions.ValidFunctionName.FunctionNoCapital" />
     </rule>
 
     <rule ref="vendor/cakephp/cakephp-codesniffer/CakePHP/Sniffs/Formatting/OneClassPerUseSniff.php"/>
